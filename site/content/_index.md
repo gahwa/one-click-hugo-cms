@@ -16,7 +16,7 @@ involves practices that are environmentally
 friendly, socially responsible, and
 economically viable."
 products:
-    - image: img/illustrations-coffee.svg
+    - image: img/farming1.jpg
       text: "The goal of sustainable farming is to produce food and other agricultural products in a way that conserves natural resources, protects the environment, and
 supports local communities. Some of the
 key practices involved in sustainable
