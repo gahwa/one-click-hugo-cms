@@ -4,7 +4,7 @@ subtitle: Support sustainable farming
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Not AgraVerty?
-    text: "need content here."
+    text: "We are the immediate souce of information regarding sustainable farming"
 intro:
     heading: "What about sustainable farming"
     text: "Sustainable farming is a method of
