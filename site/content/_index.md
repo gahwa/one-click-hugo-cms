@@ -20,14 +20,9 @@ products:
       text: "The goal of sustainable farming is to produce food and other agricultural products in a way that conserves natural resources, protects the environment, and
 supports local communities. Some of the
 key practices involved in sustainable
-farming include:
-"
-    - image: /img/illustrations-coffee-gear.svg
-      text: "Sustainable farming practices not only
-benefit the environment, but also help to
-create more resilient and profitable farming
-systems. They can also contribute to
-improved food security, healthier
+farming
+    - image: img/farming2.jpg
+      text: "Sustainable farming practices not only benefit the environment, but also help to create more resilient and profitable farmingstems. They can also contribute to improved food security, healthier
 communities, and greater economic
 stability for farmers and rural communities."
 values:
